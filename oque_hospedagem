@@ -1,0 +1,45 @@
+dominio:
+  nome único
+  pago anualmente 
+  vários tlds
+
+hospedagem:
+   espaço pra armazenar arquivos 
+   pago mensalmente
+   espaços, memória, recursos
+
+o que é url?
+ é uma sigla chamada de "uniforme resource locator" ou "locador de recurso unico"
+
+
+por exemplo:
+  www.github.com/gustavoguanabara
+  o www é o subdominio, é o principal, 
+  o "github" é o dominio
+  o ".com" é o TLD
+  o "/gustavoguanabara" é a url
+  a url pode ser composta de dominio, tld, ou o caminho, o caminho está apos da "/"
+  .com, .net, .io, é gtdl.
+  .com é comercial
+  cctld é o código que representa o país, tipo ".com.br ou .com.uk .com.us" 
+
+HTML significa HYPERTEXT MAARKUP LINGUAGE
+CSS significa CASCADING STYLE SHEETS
+
+A LINGUAGEM HTML É FOCADA EM CONTEÚDO:
+    PODE SER VÍDEO
+    IMAGENS
+    VÍDEOS 
+    TABELAS
+a linguagem CSS é focada em design:
+    cores
+    sombras
+    tamanhos
+    posicionamento
+a linguagem JS é focada em interação:
+   menus
+   animações
+   popups
+   validações
+   
+ 
